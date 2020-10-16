@@ -1,4 +1,4 @@
-# American_sign_language_understanding_Using_Machine_learning
+# American sign language understanding Using Machine Learning
 Deaf is a disability that impairs the hearing, while mute is a disability that impairs the speaking. For the people affected by one of these disabilities the only way to communicate with others is by using sign language, where each gesture has a
 specific meaning.
 Still the general public doesn’t give the necessary impor- tance in learning Sign Language. One solution to tackle the communication gap is by using the service of sign language interpreter, however it’s very costly since people with this training are not easily found. So a cheap and easy solution is required so that deaf-mute and normal people can commu- nicate normally.
